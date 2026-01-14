@@ -1428,6 +1428,15 @@ input, select, textarea {
 		}
 
 		@media screen and (max-width: 736px) {
+				
+		    .logo {
+					top:10px;
+					left:10px;
+			}
+
+			.logo img {
+					max-width: 88px;
+			}
 
 			#header > * {
 				margin-top: 2rem;
